@@ -1,4 +1,4 @@
-# 主题切换器（TrayThemeToggle）
+# Windows 11 深/浅色主题切换器（TrayThemeToggle）
 
 任务栏托盘一键切换 Windows 深色 / 浅色模式的小工具。单文件、免安装、不需要管理员权限。
 
